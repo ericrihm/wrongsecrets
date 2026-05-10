@@ -126,3 +126,7 @@ scripts/sort_contibutors/bin/
 git_secrets_output.txt
 .secrets.baseline.json
 lychee
+
+# AI assistant config
+CLAUDE.md
+.claude/
